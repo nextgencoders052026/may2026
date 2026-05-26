@@ -1,4 +1,3 @@
-print('welcome to the multiplication table grid generator!')
 while True:
     print('please enter a number to get the multiplication table grid:')
     num=int(input())
