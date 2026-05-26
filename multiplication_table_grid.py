@@ -6,7 +6,7 @@ while True:
         tablerow=[]
         for j in range(1,num+1):
             a=i*j
-            tablerow.append(f"{a:3}")
+            tablerow.append(str(a))
         result=' '.join(tablerow)
         print(result)
     print('do you want to continue? (y/n)')
