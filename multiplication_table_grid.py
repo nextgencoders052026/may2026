@@ -13,4 +13,3 @@ while True:
     if choice.lower()=='n':
         print('thank you for using the multiplication table grid generator!')
         break
-   
